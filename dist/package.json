@@ -1,0 +1,9 @@
+{
+  "name": "Website-Optimization",
+  "version": "1.0.0",
+  "description": "udacity-font-end-project",
+  "main": "index.js",
+  "repository": "https://github.com/TUPOBO/Website-Optimization",
+  "author": "tupobo",
+  "license": "MIT"
+}

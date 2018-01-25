@@ -1,5 +1,68 @@
 ## 网站性能优化项目
 
+####项目一：优化index.html的pagespeed insights得分
+
+#####git -- 版本控制
+
+1. 在GitHub新建仓库
+2. 把初始代码文件推送到在线仓库
+
+##### PageSpeed Insights --  评估网站性能
+
+1. python3 -- 创建本地服务器
+
+   ```shell
+     $> cd /src
+     $> python -m http.server 8080
+   ```
+
+2. ngrok -- 让本地服务器能被远程访问
+
+   ```shell
+     $> cd /你的工程目录
+     $> ./ngrok http 8080
+   ```
+
+3. 复制ngrok提供给你的公共URL，然后尝试通过PageSpeed Insights访问
+
+##### 优化步骤
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 你要做的是尽可能优化这个在线项目的速度。注意，请应用你之前在[网站性能优化课程](https://cn.udacity.com/course/website-performance-optimization--ud884/)中学习的技术来优化关键渲染路径并使这个页面尽可能快的渲染。
 
 开始前，请导出这个代码库并检查代码。

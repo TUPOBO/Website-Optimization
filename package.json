@@ -1,0 +1,13 @@
+{
+  "name": "Website-Optimization",
+  "version": "1.0.0",
+  "description": "udacity project",
+  "main": "index.js",
+  "repository": "https://github.com/TUPOBO/Website-Optimization.git",
+  "author": "TUPOBO <1028461931@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-watch": "^5.0.0"
+  }
+}
